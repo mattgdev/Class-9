@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   /*^^CSS reset settings here^^*/
+
+   header {
+     background: #fff;
+     height: 200px;
+     margin-bottom: 75px;
+   }
+
+#trex {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+
+}
+
+#salmon{
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+#salmon2{
+  width: 125px;
+  height: 74px;
+  display: inline-block;
+  margin-bottom: 80px;
+}
+#salmon3{
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+}
+#salmon4{
+  width: 250px;
+  height: 120px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+body {
+  background-color: #4286f4;
+}
+
+   /*^^Background^^*/
+
+   #topsec{
+     background: #fcc362;
+     height: 250px;
+     width: 700px;
+     margin-top: 100px;
+     margin:auto;
+     /* margin-top: 100px; */
+   }
+
+
+
+   h1 {
+     font-size: 40px;
+     font-family: Times;
+     color: White;
+   }
+
+   li {
+     font-family: Arial;
+     color: black;
+   }
+
+
+#dataT {
+  border: 3px dashed orange;
+}
+
+/* th {
+  border: 3px solid black;
+  width: 50px;
+}
+
+tr {
+  border: 3px solid black;
+}
+
+td {
+  border: 3px solid black;
+} */
